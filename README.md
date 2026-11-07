@@ -17,4 +17,4 @@ ctest --test-dir build --output-on-failure
 
 I put my GoogleTest tests in `tests/test_hw2.cpp`. I checked normal cases and edge cases, like negative durations, seconds over 59, an empty title, a full playlist, and a missing track.
 
-I put my class sketch and the twelve flowcharts in the `docs` folder.
+Also, put my class sketch and the twelve flowcharts in the `docs` folder.
