@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address,undefined CMakeFiles/hw2.dir/app/main.cpp.o -o hw2  libhw2_lib.a 

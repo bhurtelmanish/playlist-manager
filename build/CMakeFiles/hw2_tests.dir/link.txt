@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address,undefined CMakeFiles/hw2_tests.dir/tests/test_hw2.cpp.o -o hw2_tests  libhw2_lib.a lib/libgtest_main.a lib/libgtest.a 

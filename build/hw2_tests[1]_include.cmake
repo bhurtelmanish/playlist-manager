@@ -1,0 +1,5 @@
+if(EXISTS "/home/ubuntu/playlist-manager/build/hw2_tests[1]_tests.cmake")
+  include("/home/ubuntu/playlist-manager/build/hw2_tests[1]_tests.cmake")
+else()
+  add_test(hw2_tests_NOT_BUILT hw2_tests_NOT_BUILT)
+endif()

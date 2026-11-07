@@ -1,0 +1,13 @@
+DurationTests.DefaultsToZero 1 0.0705878
+DurationTests.CarriesSeconds 1 0.0796478
+DurationTests.ClampsNegativeTotal 1 0.0298418
+DurationTests.AddsWithoutChangingOperands 1 0.0802432
+DurationTests.ComparesTotals 1 0.0282564
+DurationTests.PrintsWithTwoSecondDigits 1 0.0824438
+PlaylistTests.MinimumCapacityIsOne 1 0.0823307
+PlaylistTests.RefusesEmptyTitle 1 0.0279459
+PlaylistTests.RefusesWhenFull 1 0.0815866
+PlaylistTests.EmptyTotalIsZero 1 0.0817234
+PlaylistTests.SumsLengths 1 0.0302128
+PlaylistTests.FindsExactTitleOrNull 1 0.0821874
+---

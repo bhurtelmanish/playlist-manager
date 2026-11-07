@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhw2_lib.a CMakeFiles/hw2_lib.dir/src/duration.cpp.o CMakeFiles/hw2_lib.dir/src/playlist.cpp.o
+/usr/bin/ranlib libhw2_lib.a

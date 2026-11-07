@@ -1,0 +1,327 @@
+Start testing: Nov 07 03:45 UTC
+----------------------------------------------------------
+1/12 Testing: DurationTests.DefaultsToZero
+1/12 Test: DurationTests.DefaultsToZero
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=DurationTests.DefaultsToZero" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"DurationTests.DefaultsToZero" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DurationTests.DefaultsToZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DurationTests
+[ RUN      ] DurationTests.DefaultsToZero
+[       OK ] DurationTests.DefaultsToZero (0 ms)
+[----------] 1 test from DurationTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"DurationTests.DefaultsToZero" end time: Nov 07 03:45 UTC
+"DurationTests.DefaultsToZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/12 Testing: DurationTests.CarriesSeconds
+2/12 Test: DurationTests.CarriesSeconds
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=DurationTests.CarriesSeconds" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"DurationTests.CarriesSeconds" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DurationTests.CarriesSeconds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DurationTests
+[ RUN      ] DurationTests.CarriesSeconds
+[       OK ] DurationTests.CarriesSeconds (0 ms)
+[----------] 1 test from DurationTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"DurationTests.CarriesSeconds" end time: Nov 07 03:45 UTC
+"DurationTests.CarriesSeconds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/12 Testing: DurationTests.ClampsNegativeTotal
+3/12 Test: DurationTests.ClampsNegativeTotal
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=DurationTests.ClampsNegativeTotal" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"DurationTests.ClampsNegativeTotal" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DurationTests.ClampsNegativeTotal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DurationTests
+[ RUN      ] DurationTests.ClampsNegativeTotal
+[       OK ] DurationTests.ClampsNegativeTotal (0 ms)
+[----------] 1 test from DurationTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"DurationTests.ClampsNegativeTotal" end time: Nov 07 03:45 UTC
+"DurationTests.ClampsNegativeTotal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/12 Testing: DurationTests.AddsWithoutChangingOperands
+4/12 Test: DurationTests.AddsWithoutChangingOperands
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=DurationTests.AddsWithoutChangingOperands" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"DurationTests.AddsWithoutChangingOperands" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DurationTests.AddsWithoutChangingOperands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DurationTests
+[ RUN      ] DurationTests.AddsWithoutChangingOperands
+[       OK ] DurationTests.AddsWithoutChangingOperands (0 ms)
+[----------] 1 test from DurationTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"DurationTests.AddsWithoutChangingOperands" end time: Nov 07 03:45 UTC
+"DurationTests.AddsWithoutChangingOperands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/12 Testing: DurationTests.ComparesTotals
+5/12 Test: DurationTests.ComparesTotals
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=DurationTests.ComparesTotals" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"DurationTests.ComparesTotals" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DurationTests.ComparesTotals
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DurationTests
+[ RUN      ] DurationTests.ComparesTotals
+[       OK ] DurationTests.ComparesTotals (0 ms)
+[----------] 1 test from DurationTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"DurationTests.ComparesTotals" end time: Nov 07 03:45 UTC
+"DurationTests.ComparesTotals" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/12 Testing: DurationTests.PrintsWithTwoSecondDigits
+6/12 Test: DurationTests.PrintsWithTwoSecondDigits
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=DurationTests.PrintsWithTwoSecondDigits" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"DurationTests.PrintsWithTwoSecondDigits" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DurationTests.PrintsWithTwoSecondDigits
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DurationTests
+[ RUN      ] DurationTests.PrintsWithTwoSecondDigits
+[       OK ] DurationTests.PrintsWithTwoSecondDigits (0 ms)
+[----------] 1 test from DurationTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"DurationTests.PrintsWithTwoSecondDigits" end time: Nov 07 03:45 UTC
+"DurationTests.PrintsWithTwoSecondDigits" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/12 Testing: PlaylistTests.MinimumCapacityIsOne
+7/12 Test: PlaylistTests.MinimumCapacityIsOne
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=PlaylistTests.MinimumCapacityIsOne" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"PlaylistTests.MinimumCapacityIsOne" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PlaylistTests.MinimumCapacityIsOne
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlaylistTests
+[ RUN      ] PlaylistTests.MinimumCapacityIsOne
+[       OK ] PlaylistTests.MinimumCapacityIsOne (0 ms)
+[----------] 1 test from PlaylistTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"PlaylistTests.MinimumCapacityIsOne" end time: Nov 07 03:45 UTC
+"PlaylistTests.MinimumCapacityIsOne" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/12 Testing: PlaylistTests.RefusesEmptyTitle
+8/12 Test: PlaylistTests.RefusesEmptyTitle
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=PlaylistTests.RefusesEmptyTitle" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"PlaylistTests.RefusesEmptyTitle" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PlaylistTests.RefusesEmptyTitle
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlaylistTests
+[ RUN      ] PlaylistTests.RefusesEmptyTitle
+[       OK ] PlaylistTests.RefusesEmptyTitle (0 ms)
+[----------] 1 test from PlaylistTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PlaylistTests.RefusesEmptyTitle" end time: Nov 07 03:45 UTC
+"PlaylistTests.RefusesEmptyTitle" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/12 Testing: PlaylistTests.RefusesWhenFull
+9/12 Test: PlaylistTests.RefusesWhenFull
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=PlaylistTests.RefusesWhenFull" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"PlaylistTests.RefusesWhenFull" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PlaylistTests.RefusesWhenFull
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlaylistTests
+[ RUN      ] PlaylistTests.RefusesWhenFull
+[       OK ] PlaylistTests.RefusesWhenFull (0 ms)
+[----------] 1 test from PlaylistTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"PlaylistTests.RefusesWhenFull" end time: Nov 07 03:45 UTC
+"PlaylistTests.RefusesWhenFull" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/12 Testing: PlaylistTests.EmptyTotalIsZero
+10/12 Test: PlaylistTests.EmptyTotalIsZero
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=PlaylistTests.EmptyTotalIsZero" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"PlaylistTests.EmptyTotalIsZero" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PlaylistTests.EmptyTotalIsZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlaylistTests
+[ RUN      ] PlaylistTests.EmptyTotalIsZero
+[       OK ] PlaylistTests.EmptyTotalIsZero (0 ms)
+[----------] 1 test from PlaylistTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"PlaylistTests.EmptyTotalIsZero" end time: Nov 07 03:45 UTC
+"PlaylistTests.EmptyTotalIsZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/12 Testing: PlaylistTests.SumsLengths
+11/12 Test: PlaylistTests.SumsLengths
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=PlaylistTests.SumsLengths" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"PlaylistTests.SumsLengths" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PlaylistTests.SumsLengths
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlaylistTests
+[ RUN      ] PlaylistTests.SumsLengths
+[       OK ] PlaylistTests.SumsLengths (0 ms)
+[----------] 1 test from PlaylistTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"PlaylistTests.SumsLengths" end time: Nov 07 03:45 UTC
+"PlaylistTests.SumsLengths" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/12 Testing: PlaylistTests.FindsExactTitleOrNull
+12/12 Test: PlaylistTests.FindsExactTitleOrNull
+Command: "/home/ubuntu/playlist-manager/build/hw2_tests" "--gtest_filter=PlaylistTests.FindsExactTitleOrNull" "--gtest_also_run_disabled_tests"
+Directory: /home/ubuntu/playlist-manager/build
+"PlaylistTests.FindsExactTitleOrNull" start time: Nov 07 03:45 UTC
+Output:
+----------------------------------------------------------
+Running main() from /home/ubuntu/playlist-manager/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PlaylistTests.FindsExactTitleOrNull
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PlaylistTests
+[ RUN      ] PlaylistTests.FindsExactTitleOrNull
+[       OK ] PlaylistTests.FindsExactTitleOrNull (0 ms)
+[----------] 1 test from PlaylistTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"PlaylistTests.FindsExactTitleOrNull" end time: Nov 07 03:45 UTC
+"PlaylistTests.FindsExactTitleOrNull" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 07 03:45 UTC
